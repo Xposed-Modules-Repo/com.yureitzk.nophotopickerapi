@@ -7,8 +7,7 @@ limitations of the new
 [Photo picker API](https://developer.android.com/training/data-storage/shared/photo-picker)
 and allow users to the classic document/file picker.
 
-> [!IMPORTANT]
-> Tested on a limited number of devices. Your experience may vary, and bugs are possible.
+> **IMPORTANT**: Tested on a limited number of devices. Your experience may vary, and bugs are possible.
 
 ## Screenshots
 
@@ -16,10 +15,10 @@ and allow users to the classic document/file picker.
 <summary>View Screenshots</summary>
 
 ### Without the module
-<img src='img/before.png' alt='Before' width='300'>
+<img src='https://raw.githubusercontent.com/yureitzk/NoPhotoPickerAPI/main/img/before.png' alt='Before' width='300'>
 
 ### With the module
-<img src='img/after.png' alt='After' width='300'>
+<img src='https://raw.githubusercontent.com/yureitzk/NoPhotoPickerAPI/main/img/after.png' alt='After' width='300'>
 
 </details>
 
